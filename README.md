@@ -12,5 +12,5 @@ Un univers de connaissances vous attend ! Vous allez maîtriser la création de 
 
 ![Zelda](Création-Du-Jeu/Images/Zelda.gif)
 
-Prêt pour l'aventure ? Saisissez votre souris et votre clavier, mettez-vous confortablement et préparez-vous à tisser la légende de votre propre royaume. C'est parti, guerriers du numérique ! 🚀
+Prêt pour l'aventure ? Saisissez votre souris et votre clavier, mettez-vous confortablement et préparez-vous à tisser la légende de votre propre royaume. [C'est parti, guerriers du numérique !](https://github.com/g404-code-gaming/ZeldaDistanciel/blob/main/Création-Du-Jeu/1.Attaque%20et%20synchronisation.md) 🚀
 
